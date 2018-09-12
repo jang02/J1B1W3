@@ -1,3 +1,7 @@
+.picture{
+	height: 200px;
+	width: 260px;
+}
 h1{
 	color: deepskyblue;
 	font-family: fantasy;
@@ -8,21 +12,35 @@ h2{
 	font-family: fantasy;
 	font-size: 30px;
 }
-article.articleleft{
-	position: absolute;
-	width: 250px;
-	height: 300px;
+h3{
+	color: deepskyblue;
+	font-family: fantasy;
+	font-size: 25px;
+	margin: 10px 0px 10px 50px;
 }
-article.articlecentre{
-	position: absolute;
-	width: 250px;
-	height: 300px;
-	left: 300px;
-}
-article.articleright{
+article.artintro{
 	position: absolute;
 	width: 250px;
 	height: 300px;
 	left: 600px;
 }
+article.artont{
+	position: absolute;
+	width: 250px;
+	height: 300px;
+	left: 300px;
+}
+article.artao{
+	position: absolute;
+	width: 250px;
+	height: 300px;
+	left: 600px;
+}
+article.artprofile{
+	border: 2px solid blue;
+	position: absolute;
+	left: 1200px;
+	bottom: 400px;
+}
+
 
