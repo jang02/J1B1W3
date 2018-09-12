@@ -1,0 +1,28 @@
+h1{
+	color: deepskyblue;
+	font-family: fantasy;
+	font-size: 50px;
+}
+h2{
+	color: deepskyblue;
+	font-family: fantasy;
+	font-size: 30px;
+}
+article.articleleft{
+	position: absolute;
+	width: 250px;
+	height: 300px;
+}
+article.articlecentre{
+	position: absolute;
+	width: 250px;
+	height: 300px;
+	left: 300px;
+}
+article.articleright{
+	position: absolute;
+	width: 250px;
+	height: 300px;
+	left: 600px;
+}
+
