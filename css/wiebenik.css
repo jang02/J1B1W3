@@ -41,6 +41,10 @@ article.artprofile{
 	position: absolute;
 	left: 1200px;
 	bottom: 400px;
+	background-color: powderblue;
+}
+body{
+	background-color: aliceblue;
 }
 
 
