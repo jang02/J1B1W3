@@ -6,6 +6,12 @@ h1{
 	color: deepskyblue;
 	font-family: fantasy;
 	font-size: 50px;
+	margin-left: 50px;
+}
+div#topbar{
+	background-color: lightblue;
+	padding: 1px 0px;
+	border-bottom: 3px deepskyblue solid;
 }
 h2{
 	color: deepskyblue;
@@ -18,11 +24,47 @@ h3{
 	font-size: 25px;
 	margin: 10px 0px 10px 50px;
 }
+div#navbar{
+	background-color: lightblue;
+	display: inline-block;
+	width: 125px;
+	height: 600px;
+	border-top: 1px deepskyblue solid;
+	border-right: 4px deepskyblue solid;
+}
+ul{
+	list-style: none;
+	display: inline;
+}
+li.button{
+	padding: 15px 30px 15px 30px;
+	background-color: #7ec1d7;
+	border-bottom: 3px deepskyblue solid;
+	border-top: 3px deepskyblue solid;
+}
+li.button:hover{
+	background-color: #afebff;
+}
+li.button2{
+	padding: 15px 30px 15px 30px;
+	background-color: #7ec1d7;
+	border-bottom: 3px deepskyblue solid;
+}
+li.button2:hover{
+	background-color: #afebff;
+}
+p#pages{
+	display: inline;
+	font-size: 30px;
+	color: deepskyblue;
+	font-family: fantasy;
+}
 article.artintro{
 	position: absolute;
-	width: 250px;
+	width: 275px;
 	height: 300px;
-	left: 600px;
+	left: 200px;
+	top: 175px;
 }
 article.artont{
 	position: absolute;
@@ -40,11 +82,9 @@ article.artprofile{
 	border: 2px solid blue;
 	position: absolute;
 	left: 1200px;
-	bottom: 400px;
+	bottom: 300px;
 	background-color: powderblue;
 }
-body{
-	background-color: aliceblue;
-}
+
 
 
