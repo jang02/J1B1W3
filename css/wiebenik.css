@@ -9,7 +9,7 @@ h1{
 	margin-left: 50px;
 }
 div#topbar{
-	background-color: lightblue;
+	background-color: #d2e5ec;
 	padding: 1px 0px;
 	border-bottom: 3px deepskyblue solid;
 }
@@ -25,7 +25,7 @@ h3{
 	margin: 10px 0px 10px 50px;
 }
 div#navbar{
-	background-color: lightblue;
+	background-color: #d2e5ec;
 	display: inline-block;
 	width: 125px;
 	height: 600px;
@@ -38,7 +38,7 @@ ul{
 }
 li.button{
 	padding: 15px 30px 15px 30px;
-	background-color: #7ec1d7;
+	background-color: #d2e5ec;
 	border-bottom: 3px deepskyblue solid;
 	border-top: 3px deepskyblue solid;
 }
@@ -47,7 +47,7 @@ li.button:hover{
 }
 li.button2{
 	padding: 15px 30px 15px 30px;
-	background-color: #7ec1d7;
+	background-color: #d2e5ec;
 	border-bottom: 3px deepskyblue solid;
 }
 li.button2:hover{
@@ -85,6 +85,8 @@ article.artprofile{
 	bottom: 300px;
 	background-color: powderblue;
 }
-
+.basictextpage2 {
+	width: 600px;
+}
 
 
